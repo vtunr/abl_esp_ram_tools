@@ -1,0 +1,1 @@
+From https://github.com/espressif/esp-idf/blob/master/tools/idf_size.py
